@@ -1,0 +1,5 @@
+Weather Stats for - SANGLI  || 23 Jun 2021 | 07:13:24 PM
+temp_city :25.340000
+weather_desc :overcast clouds
+wind_spd :6.380000
+humidity :74.000000 
